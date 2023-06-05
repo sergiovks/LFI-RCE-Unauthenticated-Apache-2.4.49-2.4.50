@@ -10,3 +10,8 @@ Apache HTTP Server is an open source web server from the Apache Foundation in th
 Put the IP address you want to check into the ip.txt file
 Run python3 check.py
 ```
+
+<h3>Affected software:</h3>
+
+Apache 2.4.49
+Apache 2.4.50
