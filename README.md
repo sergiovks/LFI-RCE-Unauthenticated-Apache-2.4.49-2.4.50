@@ -6,7 +6,7 @@ Apache HTTP Server is an open source web server from the Apache Foundation in th
 
 <h3>usage:</h3>
 
-'''
-1. Put the IP address you want to check into the ip.txt file
-2. Run python3 check.py
-''' 
+```
+Put the IP address you want to check into the ip.txt file
+Run python3 check.py
+```
